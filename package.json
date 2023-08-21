@@ -1,0 +1,12 @@
+{
+  "name": "tello-sdk3",
+  "version": "0.0.1",
+  "description": "Asynchronous based library for communicating to DJI Tello through udp4 according to the sdk v3",
+  "main": "./lib/Tello.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "Matias Vazquez-Levi",
+  "license": "MIT"
+}
